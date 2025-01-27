@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paradigmxyz/.github/main/assets/logo-dark.svg">
-  <img alt="paradigm logo" src="https://raw.githubusercontent.com/paradigmxyz/.github/main/assets/logo-light.svg" width="auto" height="120">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/finitejp/.github/main/assets/profile/logo-black.svg">
+  <img alt="paradigm logo" src="https://raw.githubusercontent.com/finitejp/.github/main/profile/assets/logo-white.svg" width="auto" height="120">
 </picture>
 
 [Finite](https://finite.ac/) is a community-driven technology company.
