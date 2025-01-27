@@ -3,7 +3,7 @@
   <img alt="paradigm logo" src="https://raw.githubusercontent.com/finitejp/.github/main/profile/assets/logo-white.svg" width="auto" height="120">
 </picture>
 
-[Finite](https://finite.ac/) is a community-driven technology company.
+[Finite](https://finite.cv/) is a community-driven technology company.
 
 We take a deeply hands-on approach to help projects reach their full potential, from the technical (mechanism design, security, engineering) 
 to the operational (recruiting, regulatory strategy).
